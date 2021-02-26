@@ -2,7 +2,7 @@
 
 ## Introduction 
 
-#### Why was the project undertaken
+#### Why was the project undertaken?
 _According to the CDC, about 655,000 Americans die from heart disease every year, which is 1 in every 4 Americans. This is one person every 36 seconds. By knowing the risk factors for cardiovascular disease, one can make better choices to avoid heart failure._
 
 #### What was the research question, the tested hypotheseis or purpose of the research? 
