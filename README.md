@@ -6,7 +6,11 @@
 _According to the CDC, about 655,000 Americans die from heart disease every year, which is 1 in every 4 Americans. This is one person every 36 seconds. By knowing the risk factors for cardiovascular disease, one can make better choices to avoid heart failure._
 
 #### What was the research question, the tested hypotheseis or purpose of the research? 
-_We hypothesized that age, high blood pressure, and sex were some of the leading factors for cardiovascular disease.  We tested this hypothesis and found that there were other factors unknown to us that contributed highly to the probability of dying from cardiovascular disease._ 
+_Inital Hypothesis: We originally hypothesized that age, high blood pressure, and sex were some of the leading factors for cardiovascular disease.  We tested this hypothesis and found that there were other factors unknown to us that contributed highly to the probability of dying from cardiovascular disease._
+
+_Updated Hypothesis: Based on the initial raw data visualization (specifically the heatmap), we hypothesized that high levels of serum creatinine, age, ejection fraction, and serum sodium would increase the liklihood of cardiovascular disease._
+
+_Research Question: What is the percent likelihood of someone dying from cardiovascular disease based on specific high impact risk factors?_
 
 ## Selection of Data 
 #### What is the source of the dataset? Characteristics of data?
