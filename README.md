@@ -1,5 +1,5 @@
-# Helping Otters
 # My Achey-Breaky Heart
+## By the Helping Otters (Ricardo Barbosa, Max Halbert, Lindsey Reynolds & Dan Sedano)
 
 [Video Demo on YouTube](https://youtu.be/q4HZhBLZkP4)
 ## Introduction 
