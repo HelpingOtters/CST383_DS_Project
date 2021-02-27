@@ -85,7 +85,6 @@ _Most important findings_
 Serum creatinine and ejection fraction were the most impactful features in terms of increasing the accuracy of our model.
 
 _Further Research_
-
 Our model has high variance, which indicates that it may be too flexible 
 We need more data in order to close the gap between the test and training set accuracy
 
