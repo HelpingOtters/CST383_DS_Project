@@ -8,7 +8,7 @@ _According to the CDC, about 655,000 Americans die from heart disease every year
 #### What was the research question, the tested hypotheseis or purpose of the research? 
 _Inital Hypothesis: We originally hypothesized that age, high blood pressure, and sex were some of the leading factors for cardiovascular disease.  We tested this hypothesis and found that there were other factors unknown to us that contributed highly to the probability of dying from cardiovascular disease._
 
-_Updated Hypothesis: Based on the initial raw data visualization (specifically the heatmap), we hypothesized that high levels of serum creatinine, age, ejection fraction, and serum sodium would increase the liklihood of cardiovascular disease._
+_Updated Hypothesis: Based on the initial raw data visualization (specifically the heatmap), we hypothesized that high levels of serum creatinine, age, ejection fraction, and serum sodium would increase the likelihood of cardiovascular disease._
 
 _Research Question: What is the percent likelihood of someone dying from cardiovascular disease based on specific high impact risk factors?_
 
