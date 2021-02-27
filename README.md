@@ -76,15 +76,18 @@ According to the CDC, high blood-pressure is a major risk factor for heart disea
 Other research also shows that unhealthy blood cholesterol levels are a major factor, however cholesterol was not a factor listed in the data collected in our dataset. 
 
 _What are the perspectives for future research?_
+
 Because our dataset was so small, it was hard to determine exactly how impactful some of the other features were. For future research, we feel that increasing the size of the training data would allow for more accuracy and exploration. 
 Survey about the tools investigated for this assignment.
 We chose to use Google Colab for this assignment because it was easy to work with for a group project. We were able to work at the same time and easily see updates in comparison to other development environments. 
 
 ## Summary 
 _Most important findings_
+
 Serum creatinine and ejection fraction were the most impactful features in terms of increasing the accuracy of our model.
 
 _Further Research_
+
 Our model has high variance, which indicates that it may be too flexible 
 We need more data in order to close the gap between the test and training set accuracy
 
